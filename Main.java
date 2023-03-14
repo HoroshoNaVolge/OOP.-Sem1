@@ -1,8 +1,6 @@
-import Product.Drink;
 import Product.HotDrink;
 import Product.Product;
 import VendingMachine.HotDrinkVendingMachine;
-import VendingMachine.VendingMachine;
 
 import java.util.ArrayList;
 
